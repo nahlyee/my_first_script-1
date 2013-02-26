@@ -1,5 +1,5 @@
-first_name = "Kris"
-last_name = "Smith"
-age = "34"
+first_name = "Brendan"
+last_name = "Loudermilk"
+age = "23"
 
 puts first_name + " " + last_name + " is " + age
